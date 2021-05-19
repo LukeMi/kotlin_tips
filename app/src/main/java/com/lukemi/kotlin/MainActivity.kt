@@ -1,10 +1,10 @@
-package com.sw.kotlin
+package com.lukemi.kotlin
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.sw.kotlin.tip4.invokeActivity
-import com.sw.kotlin.tip6.Tip6Activity
-import com.sw.kotlin.tips.R
+import androidx.appcompat.app.AppCompatActivity;
+import com.lukemi.kotlin.github.R
+import com.lukemi.kotlin.tip.invokeActivity
+import com.lukemi.kotlin.tip.Tip6Activity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

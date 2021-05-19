@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sw.kotlin.tips">
+    package="com.lukemi.kotlin.github">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:name="GithubKotlinApplication"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.sw.kotlin.MainActivity">
+        <activity android:name="com.lukemi.kotlin.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,8 +18,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.sw.kotlin.tip6.KotlinTip6"/>
-        <activity android:name="com.sw.kotlin.tip6.Tip6Activity"/>
+        <activity android:name="com.lukemi.kotlin.tip.KotlinTip6"/>
+        <activity android:name="com.lukemi.kotlin.tip.Tip6Activity"/>
     </application>
 
 </manifest>

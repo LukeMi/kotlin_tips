@@ -1,17 +1,15 @@
-package com.sw.kotlin.tips
+package com.lukemi.kotlin.tips
 
-import com.sw.kotlin.tip1.JavaExample1
-import com.sw.kotlin.tip1.testString
-import com.sw.kotlin.tip1.testString3
-import com.sw.kotlin.tip11.alphabet
-import com.sw.kotlin.tip14.testOperator
-import com.sw.kotlin.tip16.testStrategy
-import com.sw.kotlin.tip3.printList
-import com.sw.kotlin.tip4.testAsMembers
-import com.sw.kotlin.tip5.testLateInit
+import com.lukemi.kotlin.tip.tip1.JavaExample1
+import com.lukemi.kotlin.tip.tip1.testString
+import com.lukemi.kotlin.tip.tip1.testString3
+import com.lukemi.kotlin.tip.tip11.alphabet
+import com.lukemi.kotlin.tip.tip14.testOperator
+import com.lukemi.kotlin.tip.tip16.testStrategy
+import com.lukemi.kotlin.tip.tip3.printList
+import com.lukemi.kotlin.tip.testAsMembers
+import com.lukemi.kotlin.tip.tip5.testLateInit
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
