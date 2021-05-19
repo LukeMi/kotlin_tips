@@ -5,7 +5,7 @@ import android.content.Context;
 
 import androidx.multidex.MultiDex;
 
-class GithubKotlinApplication extends Application {
+public class GithubKotlinApplication extends Application {
 
     @Override
     protected void attachBaseContext(Context base) {

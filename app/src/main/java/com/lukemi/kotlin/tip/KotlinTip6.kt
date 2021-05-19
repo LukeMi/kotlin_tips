@@ -2,7 +2,7 @@ package com.lukemi.kotlin.tip
 
 import android.app.Activity
 import android.os.Bundle
-import com.lukemi.kotlin.tips.R
+import com.lukemi.kotlin.github.R
 /*
 * 导入插件生成的View
 * */

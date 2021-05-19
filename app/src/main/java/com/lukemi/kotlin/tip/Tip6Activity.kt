@@ -2,7 +2,7 @@ package com.lukemi.kotlin.tip
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.lukemi.kotlin.tips.R
+import com.lukemi.kotlin.github.R
 
 class Tip6Activity : AppCompatActivity() {
 
